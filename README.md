@@ -1,5 +1,9 @@
 # meteo-api
 
+## Project
+```
+Utilisation de l API meteo avec vuejs
+```
 ## Project setup
 ```
 npm install
